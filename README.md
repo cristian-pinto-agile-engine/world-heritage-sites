@@ -3,6 +3,11 @@
 # Overview
 This project implements a simple React application that handles routing, state management, and map rendering using various libraries and services. The application is designed to display sites and countries, using data from a local mock API created with json-server.
 
+Deployment URL: https://world-heritage-sites.vercel.app/
+
+![image](https://github.com/user-attachments/assets/a0ba2476-ea2d-421a-8b5b-9523eb680c29)
+![image](https://github.com/user-attachments/assets/f63b548f-f268-42ad-ad29-1b535df859a8)
+
 ## Installation instructions
 Follow steps to succesfull run the project on local environment:
 
